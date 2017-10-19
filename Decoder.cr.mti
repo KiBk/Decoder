@@ -1,0 +1,15 @@
+H:/SystemVerilog/Decoder/testbench_for_decoder.sv {1 {vlog -work work -vopt -sv -stats=none H:/SystemVerilog/Decoder/testbench_for_decoder.sv
+Model Technology ModelSim SE-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+-- Compiling module testbench_for_decoder
+
+Top level modules:
+	testbench_for_decoder
+
+} {} {}} H:/SystemVerilog/Decoder/dec1.sv {1 {vlog -work work -vopt -sv -stats=none H:/SystemVerilog/Decoder/dec1.sv
+Model Technology ModelSim SE-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+-- Compiling module dec1
+
+Top level modules:
+	dec1
+
+} {} {}}
